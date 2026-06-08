@@ -39,65 +39,81 @@ Welcome to my GitHub profile! I am passionate about Data Analytics, Machine Lear
 
 ---
 
-# 📂 Featured Projects
+# 📂 My Projects
 
-## 🎯 EduTutor AI
+## 🎯 EduTutor AI – Personalized Learning Platform
 
-AI-powered Personalized Learning Platform integrating:
+### Objective
 
-* IBM Watsonx
-* Pinecone Vector Database
-* FastAPI
-* Streamlit
-* Machine Learning
+Develop an AI-powered educational platform that generates personalized quizzes, learning modules, and performance analytics for students.
 
-### Key Features
+### Tools & Technologies
 
-* AI Quiz Generation
-* Student Performance Analytics
-* Personalized Learning Modules
-* Google Classroom Integration
-* Educator Dashboard
+* Python,FastAPI,IBM Watsonx,Streamlit,Machine Learning
+
+### Process
+
+* Integrated IBM Watsonx for AI-driven quiz generation.
+* Implemented student performance tracking and analytics.
+* Stored learning history using vector embeddings in Pinecone.
+* Built interactive dashboards for educators and students.
+* Developed backend APIs using FastAPI.
+
+### Insights
+
+* Enabled personalized learning experiences.
+* Improved quiz generation efficiency using AI.
+* Facilitated data-driven monitoring of student progress.
 
 ---
 
 ## 📊 Sales Performance Analytics Dashboard
 
-* Revenue Trend Analysis
-* KPI Monitoring
-* Regional Sales Insights
-* Customer Behavior Analytics
-* Interactive Power BI Reports
+### Objective
 
-**Tech Stack:** Python, SQL, Power BI, Pandas, Excel
+Analyze sales data to identify revenue trends, customer behavior, and key business performance indicators.
+
+### Tools & Technologies
+
+* Python, SQL, Power BI, Pandas, Excel
+
+### Process
+
+* Collected and cleaned sales datasets.
+* Performed exploratory data analysis (EDA).
+* Created KPI metrics and trend analyses.
+* Built interactive Power BI dashboards with filters and visualizations.
+
+### Insights
+
+* Identified high-performing regions and products.
+* Revealed seasonal sales trends.
+* Supported strategic business decision-making through KPI monitoring.
 
 ---
 
 ## 📈 Customer Churn Prediction & Analytics System
 
-* Data Cleaning & Feature Engineering
-* Exploratory Data Analysis
-* Customer Segmentation
-* Churn Prediction Models
-* Retention Strategy Insights
+### Objective
 
-**Algorithms Used:**
+Predict customer churn and provide actionable insights to improve customer retention.
 
-* Logistic Regression
-* Random Forest
+### Tools & Technologies
 
-**Tech Stack:** Python, SQL, Power BI, Streamlit, Scikit-Learn
+* Python, SQL, Scikit-Learn, Power BI, Excel
 
----
+### Process
 
-## 🏥 Healthcare Analytics Dashboard
+* Performed data preprocessing and feature engineering.
+* Conducted customer segmentation analysis.
+* Built predictive models using Logistic Regression and Random Forest.
+* Visualized churn trends through dashboards and reports.
 
-* Patient Admission Analysis
-* Monthly Discharge Analysis
-* KPI Reporting
-* Interactive Dashboard Design
+### Insights
 
-**Tech Stack:** Power BI, SQL, Excel
+* Identified factors contributing to customer churn.
+* Improved understanding of customer behavior patterns.
+* Provided recommendations for retention strategies based on predictive analytics.
 
 ---
 
@@ -142,19 +158,11 @@ AI-powered Personalized Learning Platform integrating:
 ---
 
 # 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SriramkoteswaraRaomunaga&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriramkoteswaraRaomunaga&layout=compact&theme=tokyonight"/>
-</p>
-
+"""
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriramkoteswaraRaomunaga&theme=tokyonight"/>
 </p>
-
+"""
 ---
 
 # 🌐 Connect With Me
