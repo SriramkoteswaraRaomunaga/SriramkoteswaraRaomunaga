@@ -1,10 +1,26 @@
-# Hi there, I'm M. Sriram Koteswara Rao 👋
+<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">M. Sriram Koteswara Rao</span></h1>
 
-📍 Andhra Pradesh, India | 🎓 Computer Science Engineering Graduate
+<h3 align="center">
+📊 Data Analyst | 🤖 Machine Learning Enthusiast | 🧠 AI & NLP Developer | 📈 Power BI Developer
+</h3>
 
-### Data Analyst | Machine Learning Enthusiast | AI & NLP Developer | Power BI Developer
+<p align="center">
+📍 Andhra Pradesh, India &nbsp; | &nbsp; 🎓 Computer Science Engineering Graduate
+</p>
 
-Welcome to my GitHub profile! I am passionate about Data Analytics, Machine Learning, Artificial Intelligence, and Business Intelligence. I enjoy transforming raw data into meaningful insights, building predictive models, and creating interactive dashboards that support data-driven decision making.
+<p align="center">
+<a href="mailto:srirammunaga@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://github.com/SriramkoteswaraRaomunaga">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/munaga-sriram-koteswara-rao-62364a256/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+</p>
 
 ---
 
@@ -15,12 +31,12 @@ Welcome to my GitHub profile! I am passionate about Data Analytics, Machine Lear
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
 </p>
 
@@ -28,174 +44,182 @@ Welcome to my GitHub profile! I am passionate about Data Analytics, Machine Lear
 
 # 👨‍💻 About Me
 
-* 🎓 B.Tech Computer Science Engineering Graduate
-* 📊 Data Analytics & Business Intelligence Enthusiast
-* 🐍 Python Developer
-* 📈 Power BI Dashboard Developer
-* 🤖 Machine Learning & Deep Learning Learner
-* 📚 Exploring NLP and Generative AI
-* 💡 Passionate about solving business problems using data
-* 💼 Open to Data Analyst, Business Analyst, AI Engineer and ML Engineer opportunities
+✅ Recent Computer Science Engineering Graduate
+
+✅ Passionate about Data Analytics & Business Intelligence
+
+✅ Python Developer with Machine Learning Experience
+
+✅ Power BI Dashboard Developer
+
+✅ Exploring Generative AI & NLP Applications
+
+✅ Open to Data Analyst, Business Analyst, ML Engineer and AI Engineer Roles
 
 ---
 
-# 📂 My Projects
+# 📂 Featured Projects
 
 ## 🎯 EduTutor AI – Personalized Learning Platform
 
-### Objective
+🔗 **Repository Link:** [Add GitHub Repo Here](https://github.com/YourUsername/YourRepo)
 
-Develop an AI-powered educational platform that generates personalized quizzes, learning modules, and performance analytics for students.
+### 🎯 Objective
 
-### Tools & Technologies
+Develop an AI-powered educational platform that generates personalized quizzes, learning modules, and performance analytics.
 
-* Python,FastAPI,IBM Watsonx,Streamlit,Machine Learning
+### 🛠️ Tools & Technologies
 
-### Process
+Python • FastAPI • IBM Watsonx • Pinecone • Streamlit • Machine Learning
 
-* Integrated IBM Watsonx for AI-driven quiz generation.
-* Implemented student performance tracking and analytics.
-* Stored learning history using vector embeddings in Pinecone.
-* Built interactive dashboards for educators and students.
-* Developed backend APIs using FastAPI.
+### ⚙️ Process
 
-### Insights
+* Integrated IBM Watsonx for AI-powered quiz generation
+* Built educator and student dashboards
+* Implemented learning analytics
+* Developed FastAPI backend services
+* Stored learning history using vector embeddings
 
-* Enabled personalized learning experiences.
-* Improved quiz generation efficiency using AI.
-* Facilitated data-driven monitoring of student progress.
+### 💡 Insights
+
+* Enabled personalized learning experiences
+* Improved AI-driven content generation
+* Facilitated data-driven student progress tracking
 
 ---
 
 ## 📊 Sales Performance Analytics Dashboard
 
-### Objective
+🔗 **Repository Link:** [Add GitHub Repo Here](https://github.com/YourUsername/YourRepo)
 
-Analyze sales data to identify revenue trends, customer behavior, and key business performance indicators.
+### 🎯 Objective
 
-### Tools & Technologies
+Analyze sales data to identify revenue trends and key business KPIs.
 
-* Python, SQL, Power BI, Pandas, Excel
+### 🛠️ Tools & Technologies
 
-### Process
+Python • SQL • Power BI • Pandas • Excel
 
-* Collected and cleaned sales datasets.
-* Performed exploratory data analysis (EDA).
-* Created KPI metrics and trend analyses.
-* Built interactive Power BI dashboards with filters and visualizations.
+### ⚙️ Process
 
-### Insights
+* Cleaned and transformed sales data
+* Conducted EDA and KPI analysis
+* Created Power BI dashboards
+* Visualized customer and regional trends
 
-* Identified high-performing regions and products.
-* Revealed seasonal sales trends.
-* Supported strategic business decision-making through KPI monitoring.
+### 💡 Insights
+
+* Identified top-performing regions
+* Discovered seasonal sales patterns
+* Improved business decision-making visibility
 
 ---
 
 ## 📈 Customer Churn Prediction & Analytics System
 
-### Objective
+🔗 **Repository Link:** [Add GitHub Repo Here](https://github.com/YourUsername/YourRepo)
 
-Predict customer churn and provide actionable insights to improve customer retention.
+### 🎯 Objective
 
-### Tools & Technologies
+Predict customer churn and support retention strategies.
 
-* Python, SQL, Scikit-Learn, Power BI, Excel
+### 🛠️ Tools & Technologies
 
-### Process
+Python • SQL • Power BI • Scikit-Learn • Excel
 
-* Performed data preprocessing and feature engineering.
-* Conducted customer segmentation analysis.
-* Built predictive models using Logistic Regression and Random Forest.
-* Visualized churn trends through dashboards and reports.
+### ⚙️ Process
 
-### Insights
+* Performed feature engineering
+* Conducted customer segmentation
+* Built Logistic Regression & Random Forest models
+* Developed analytical dashboards
 
-* Identified factors contributing to customer churn.
-* Improved understanding of customer behavior patterns.
-* Provided recommendations for retention strategies based on predictive analytics.
+### 💡 Insights
+
+* Identified major churn factors
+* Improved understanding of customer behavior
+* Supported retention-focused decision making
 
 ---
 
 # 💼 Internship Experience
 
-## Artificial Intelligence & Machine Learning Intern
+## 🏢 Artificial Intelligence & Machine Learning Intern
 
 ### SmartBridge Educational Services Pvt. Ltd.
 
 📅 Sep 2025 – Mar 2026
 
-* Worked on AI and Machine Learning projects
+* Developed ML solutions using Python
 * Performed Data Preprocessing and EDA
-* Built predictive analytics solutions
-* Developed machine learning models using Python
+* Built predictive analytics models
+* Worked on AI-driven business solutions
 
 ---
 
-## Machine Learning Intern
+## 🏢 Machine Learning Intern
 
 ### Hydrotribe Pvt. Ltd.
 
 📅 May 2024 – Jul 2024
 
-* Built ML models for business datasets
+* Built machine learning models
 * Created Streamlit dashboards
 * Conducted predictive analytics workflows
-* Generated business insights using data visualization
+* Generated business insights through visualization
 
 ---
 
-# 📜 Certifications
+# 🏆 Certifications
 
-🏆 Tata Group – Data Analytics Job Simulation (Forage)
+🥇 Tata Group – Data Analytics Job Simulation (Forage)
 
-🏆 Certiport – IT Specialist in Python
+🥇 Certiport – IT Specialist in Python
 
-🏆 Cisco – Programming Certification in Python
+🥇 Cisco – Programming Certification in Python
 
-🏆 Power BI for Data Analytics
+🥇 Power BI for Data Analytics
 
 ---
 
-# 📊 GitHub Statistics
-"""
+# 📊 GitHub Activity
+
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriramkoteswaraRaomunaga&theme=tokyonight"/>
 </p>
-"""
+
 ---
 
 # 🌐 Connect With Me
 
-💼 LinkedIn
+📧 Email: **[srirammunaga@gmail.com](mailto:srirammunaga@gmail.com)**
 
+💼 LinkedIn:
 https://www.linkedin.com/in/munaga-sriram-koteswara-rao-62364a256/
 
-📧 Email
-
-[srirammunaga@gmail.com](mailto:srirammunaga@gmail.com)
-
-💻 GitHub
-
+💻 GitHub:
 https://github.com/SriramkoteswaraRaomunaga
-
 
 ---
 
 # 🎯 Career Interests
 
-* Data Analytics
-* Business Intelligence
-* Machine Learning
-* Artificial Intelligence
-* Data Visualization
-* NLP
-* Predictive Analytics
+📊 Data Analytics
+
+📈 Business Intelligence
+
+🤖 Machine Learning
+
+🧠 Artificial Intelligence
+
+📉 Predictive Analytics
+
+📚 Natural Language Processing
 
 ---
 
 # ⚡ Fun Fact
 
-I enjoy transforming raw datasets into actionable business insights and building AI-powered solutions that create real-world impact.
+💡 I enjoy transforming raw datasets into actionable business insights and building AI-powered solutions that solve real-world problems.
 
 ⭐ Always learning, building, and improving one project at a time.
