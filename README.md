@@ -41,32 +41,72 @@
 </p>
 
 ---
+<h1 align="center">👋 Hi, I'm M. Sriram Koteswara Rao</h1>
 
-# 👨‍💻 About Me
+<h3 align="center">
+📊 Data Analyst | 🤖 Machine Learning Enthusiast | 🧠 AI & NLP Developer | 📈 Power BI Developer
+</h3>
 
-✅ Recent Computer Science Engineering Graduate
+<p align="center">
+📍 Andhra Pradesh, India | 🎓 Computer Science Engineering Graduate
+</p>
 
-✅ Passionate about Data Analytics & Business Intelligence
+<p align="center">
+<a href="mailto:srirammunaga@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-✅ Python Developer with Machine Learning Experience
+<a href="https://www.linkedin.com/in/munaga-sriram-koteswara-rao-62364a256/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-✅ Power BI Dashboard Developer
+<a href="https://github.com/SriramkoteswaraRaomunaga">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-✅ Exploring Generative AI & NLP Applications
-
-✅ Open to Data Analyst, Business Analyst, ML Engineer and AI Engineer Roles
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SriramkoteswaraRaomunaga&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Technologies & Tools
 
-## 🎯 EduTutor AI – Personalized Learning Platform
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,git,github,vscode,tensorflow,fastapi" />
+</p>
 
-🔗 **Repository Link:** [Add GitHub Repo Here](https://github.com/YourUsername/YourRepo)
+<p align="center">
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+* 🎓 Recent Computer Science Engineering Graduate
+* 📊 Passionate about Data Analytics & Business Intelligence
+* 🐍 Python Developer with Machine Learning Experience
+* 📈 Power BI Dashboard Developer
+* 🤖 Exploring Generative AI & NLP Applications
+* 💼 Open to Data Analyst, Business Analyst, ML Engineer, and AI Engineer Roles
+
+---
+
+# 🟦 Featured Projects
+
+## 🎯 [EduTutor AI – Personalized Learning Platform](https://github.com/SriramkoteswaraRaomunaga/Edututor_ai)
 
 ### 🎯 Objective
 
-Develop an AI-powered educational platform that generates personalized quizzes, learning modules, and performance analytics.
+Develop an AI-powered educational platform that generates personalized quizzes, learning modules, and performance analytics for students.
 
 ### 🛠️ Tools & Technologies
 
@@ -74,27 +114,25 @@ Python • FastAPI • IBM Watsonx • Pinecone • Streamlit • Machine Learni
 
 ### ⚙️ Process
 
-* Integrated IBM Watsonx for AI-powered quiz generation
-* Built educator and student dashboards
-* Implemented learning analytics
-* Developed FastAPI backend services
-* Stored learning history using vector embeddings
+* Integrated IBM Watsonx for AI-powered quiz generation.
+* Built educator and student dashboards.
+* Implemented student performance analytics.
+* Developed backend APIs using FastAPI.
+* Stored learning history using vector embeddings.
 
 ### 💡 Insights
 
-* Enabled personalized learning experiences
-* Improved AI-driven content generation
-* Facilitated data-driven student progress tracking
+* Enabled personalized learning experiences.
+* Improved AI-powered quiz generation efficiency.
+* Facilitated data-driven monitoring of student progress.
 
 ---
 
-## 📊 Sales Performance Analytics Dashboard
-
-🔗 **Repository Link:** [Add GitHub Repo Here](https://github.com/YourUsername/YourRepo)
+## 📊 [Sales Performance Analytics Dashboard](https://github.com/SriramkoteswaraRaomunaga/Data_analytics_project/tree/main/Sales%20Performance%20Analytics%20Dashboard)
 
 ### 🎯 Objective
 
-Analyze sales data to identify revenue trends and key business KPIs.
+Analyze sales data to identify revenue trends, customer behavior, and business KPIs.
 
 ### 🛠️ Tools & Technologies
 
@@ -102,22 +140,20 @@ Python • SQL • Power BI • Pandas • Excel
 
 ### ⚙️ Process
 
-* Cleaned and transformed sales data
-* Conducted EDA and KPI analysis
-* Created Power BI dashboards
-* Visualized customer and regional trends
+* Collected and cleaned sales datasets.
+* Performed exploratory data analysis.
+* Created KPI metrics and trend analyses.
+* Built interactive Power BI dashboards.
 
 ### 💡 Insights
 
-* Identified top-performing regions
-* Discovered seasonal sales patterns
-* Improved business decision-making visibility
+* Identified high-performing products and regions.
+* Revealed seasonal sales patterns.
+* Improved business decision-making through KPI monitoring.
 
 ---
 
-## 📈 Customer Churn Prediction & Analytics System
-
-🔗 **Repository Link:** [Add GitHub Repo Here](https://github.com/YourUsername/YourRepo)
+## 📈 [Customer Churn Prediction & Analytics System](https://github.com/SriramkoteswaraRaomunaga/Data_analytics_project/tree/main/Customer%20Churn%20Prediction%20and%20Analytics%20System)
 
 ### 🎯 Objective
 
@@ -125,52 +161,56 @@ Predict customer churn and support retention strategies.
 
 ### 🛠️ Tools & Technologies
 
-Python • SQL • Power BI • Scikit-Learn • Excel
+Python • SQL • Scikit-Learn • Power BI • Excel
 
 ### ⚙️ Process
 
-* Performed feature engineering
-* Conducted customer segmentation
-* Built Logistic Regression & Random Forest models
-* Developed analytical dashboards
+* Performed data preprocessing and feature engineering.
+* Conducted customer segmentation.
+* Built Logistic Regression and Random Forest models.
+* Developed dashboards and analytical reports.
 
 ### 💡 Insights
 
-* Identified major churn factors
-* Improved understanding of customer behavior
-* Supported retention-focused decision making
+* Identified key churn drivers.
+* Improved understanding of customer behavior.
+* Supported data-driven retention planning.
 
 ---
 
-# 💼 Internship Experience
+# 🟩 Internship Experience
 
 ## 🏢 Artificial Intelligence & Machine Learning Intern
 
-### SmartBridge Educational Services Pvt. Ltd.
+### SmartBridge Educational Services Pvt. Ltd. | Sep 2025 – Mar 2026
 
-📅 Sep 2025 – Mar 2026
+* Developed machine learning solutions using Python.
+* Performed data preprocessing and EDA.
+* Built predictive analytics models.
+* Worked on AI-driven business applications.
 
-* Developed ML solutions using Python
-* Performed Data Preprocessing and EDA
-* Built predictive analytics models
-* Worked on AI-driven business solutions
+### 🛠️ Skills Gained
+
+Python • Machine Learning • Data Analytics • EDA • Predictive Modeling
 
 ---
 
 ## 🏢 Machine Learning Intern
 
-### Hydrotribe Pvt. Ltd.
+### Hydrotribe Pvt. Ltd. | May 2024 – Jul 2024
 
-📅 May 2024 – Jul 2024
+* Built ML models for analytical tasks.
+* Developed Streamlit dashboards.
+* Conducted predictive analytics workflows.
+* Generated business insights using data visualization.
 
-* Built machine learning models
-* Created Streamlit dashboards
-* Conducted predictive analytics workflows
-* Generated business insights through visualization
+### 🛠️ Skills Gained
+
+Python • Streamlit • Machine Learning • Data Visualization
 
 ---
 
-# 🏆 Certifications
+# 🟨 Certifications
 
 🥇 Tata Group – Data Analytics Job Simulation (Forage)
 
@@ -190,18 +230,6 @@ Python • SQL • Power BI • Scikit-Learn • Excel
 
 ---
 
-# 🌐 Connect With Me
-
-📧 Email: **[srirammunaga@gmail.com](mailto:srirammunaga@gmail.com)**
-
-💼 LinkedIn:
-https://www.linkedin.com/in/munaga-sriram-koteswara-rao-62364a256/
-
-💻 GitHub:
-https://github.com/SriramkoteswaraRaomunaga
-
----
-
 # 🎯 Career Interests
 
 📊 Data Analytics
@@ -212,14 +240,14 @@ https://github.com/SriramkoteswaraRaomunaga
 
 🧠 Artificial Intelligence
 
-📉 Predictive Analytics
-
 📚 Natural Language Processing
+
+📉 Predictive Analytics
 
 ---
 
 # ⚡ Fun Fact
 
-💡 I enjoy transforming raw datasets into actionable business insights and building AI-powered solutions that solve real-world problems.
+💡 I enjoy transforming raw datasets into actionable business insights and building AI-powered solutions that create real-world impact.
 
 ⭐ Always learning, building, and improving one project at a time.
