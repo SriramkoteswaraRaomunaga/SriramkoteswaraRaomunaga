@@ -1,46 +1,4 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">M. Sriram Koteswara Rao</span></h1>
 
-<h3 align="center">
-📊 Data Analyst | 🤖 Machine Learning Enthusiast | 🧠 AI & NLP Developer | 📈 Power BI Developer
-</h3>
-
-<p align="center">
-📍 Andhra Pradesh, India &nbsp; | &nbsp; 🎓 Computer Science Engineering Graduate
-</p>
-
-<p align="center">
-<a href="mailto:srirammunaga@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://github.com/SriramkoteswaraRaomunaga">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/in/munaga-sriram-koteswara-rao-62364a256/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-</p>
-
----
-
-# 🚀 Technologies & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,git,github,vscode,tensorflow,fastapi" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
-</p>
-
----
 <h1 align="center">👋 Hi, I'm M. Sriram Koteswara Rao</h1>
 
 <h3 align="center">
